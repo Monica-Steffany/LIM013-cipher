@@ -2,8 +2,8 @@ const cipher = {
   encode:  (offset,string) =>{
     let result="";
     if (offset===null || offset===0){
-      throw new TypeError(); 
-    }
+      throw new TypeError();
+    } 
     for (let i = 0; i < string.length; i++) {
       let getAscii=string.charCodeAt(i);
       if (getAscii>=65 && getAscii<=90){
@@ -29,10 +29,10 @@ const cipher = {
     for (let i = 0; i < string.length; i++) {
       let getAscii=string.charCodeAt(i);
       if (getAscii>=65 && getAscii<=90){
-        let formula = ((getAscii + 65) - parseInt(offset))% 26 + 65;
+        let formula = ((getAscii - 90) - parseInt(offset))% 26 + 90;
         result+= String.fromCharCode(formula);
       } else if (getAscii>=97 && getAscii<=122) {
-        let formula = ((getAscii - 97 - parseInt(offset)+52))% 26 + 97;
+        let formula = ((getAscii - 122) - parseInt(offset))% 26 + 122;
         result+= String.fromCharCode(formula);
       }
       else {

@@ -18,7 +18,7 @@
 
 ## 2. Resumen del proyecto
 
-Keep Secret es una aplicación que permite codificar y descifrar mensajes, teniendo como base el [Cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher). Este producto digital cuenta con cuatro pantallas. En la primera, el usuario ingresa su nombre o e-mail y, contraseña. Luego, se mostrará una pantalla con dos opciones, cifrar y descifrar. Posteriormente, en la pantalla de cada opción, el usuario escribirá su mensaje y colocará un número clave que es el número de desplazamiento de las letras al momento de realizar el cifrado. 
+Keep Secret es una aplicación que permite codificar y descifrar mensajes, teniendo como base el [Cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher). Este producto digital cuenta con cuatro pantallas. En la primera, el usuario ingresa su nombre o e-mail y, contraseña. Luego, se mostrará una pantalla con dos opciones, cifrar y descifrar. Posteriormente, en la pantalla de cada opción, el usuario escribirá su mensaje y colocará un número clave (positivo) que es el número de desplazamiento de las letras al momento de realizar el cifrado. 
 
 La propuesta es de una aplicación móvil; sin embargo, se propone desarrollar una versión mejorada, con una opción de envío del mensaje cifrado con un URL único para que el destinatario tenga accesso al contenido del mensaje; asimismo, se propone emplear el Responsive Design, permitiendo su uso en demás dispositivos.
 
