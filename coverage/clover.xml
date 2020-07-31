@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1594745733780" clover="3.2.0">
-  <project timestamp="1594745733781" name="All files">
-    <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="1" coveredelements="1" complexity="0" loc="1" ncloc="1" packages="1" files="1" classes="1"/>
+<coverage generated="1596177222619" clover="3.2.0">
+  <project timestamp="1596177222620" name="All files">
+    <metrics statements="27" coveredstatements="24" conditionals="24" coveredconditionals="21" methods="2" coveredmethods="2" elements="53" coveredelements="47" complexity="0" loc="27" ncloc="27" packages="1" files="1" classes="1"/>
     <file name="cipher.js" path="C:\Users\JudithRoxana\LIM013-cipher\src\cipher.js">
-      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <metrics statements="27" coveredstatements="24" conditionals="24" coveredconditionals="21" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
+      <line num="3" count="10" type="stmt"/>
+      <line num="4" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="8" count="52" type="stmt"/>
+      <line num="9" count="52" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="26" type="stmt"/>
+      <line num="11" count="26" type="stmt"/>
+      <line num="12" count="26" type="cond" truecount="3" falsecount="1"/>
+      <line num="13" count="26" type="stmt"/>
+      <line num="14" count="26" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="26" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="30" count="52" type="stmt"/>
+      <line num="31" count="52" type="cond" truecount="4" falsecount="0"/>
+      <line num="32" count="26" type="stmt"/>
+      <line num="33" count="26" type="stmt"/>
+      <line num="34" count="26" type="cond" truecount="3" falsecount="1"/>
+      <line num="35" count="26" type="stmt"/>
+      <line num="36" count="26" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
