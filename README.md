@@ -26,7 +26,11 @@ La propuesta es de una aplicación móvil; sin embargo, se propone desarrollar u
 Aplicación móvil
 
 ![](images/LogIn.PNG)
+<<<<<<< HEAD
 ![menu_screen](images/Menu.PNG)
+=======
+![](images/Menu.png)
+>>>>>>> c9bd2fe2b8025dc7b2e468f39d0d553fd6be5f24
 ![](images/Encode.PNG)
 ![](images/Decode.PNG)
 
