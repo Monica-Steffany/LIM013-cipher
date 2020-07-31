@@ -25,13 +25,12 @@ La propuesta es de una aplicación móvil; sin embargo, se propone desarrollar u
 ## 3. Producto final
 Aplicación móvil
 
-![](images/LogIn.PNG)
+![](src/images/LogIn.PNG)
 ![menu_screen](images/Menu.PNG)
 ![](images/Encode.PNG)
 ![](images/Decode.PNG)
 
 ## 4. Investigación UX
-
 ### Usuarios y objetivos del producto
 
 El público objetivo de esta aplicación son personas mayores de edad, que tengan la necesidad de enviar y/o recibir mensajes con contenido privado; como también, aquellas que desean utilizar esta aplicación para cifrar contenido de situaciones o experiencias propias y desean guardar en estricta privacidad.
