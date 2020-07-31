@@ -27,7 +27,7 @@ La propuesta es de una aplicación móvil; sin embargo, se propone desarrollar u
 ## 3. Producto final
 Aplicación móvil
 
-![] (src/LogIn.PNG)
+![] (src/images/LogIn.PNG)
 ![] (images/Menu.PNG)
 ![] (images/Encode.PNG)
 ![] (images/Decode.PNG)
