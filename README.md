@@ -28,7 +28,7 @@ La propuesta es de una aplicación móvil; sin embargo, se propone desarrollar u
 Aplicación móvil
 
 ![] (https://github.com/Monica-Steffany/LIM013-cipher/blob/master/src/images/Prototipo_1.jpeg)
-![] (images/Menu.PNG)
+![] (Menu.png)
 ![] (images/Encode.PNG)
 ![] (images/Decode.PNG)
 
