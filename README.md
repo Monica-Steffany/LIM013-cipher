@@ -22,8 +22,6 @@ Keep Secret es una aplicación que permite codificar y descifrar mensajes, tenie
 
 La propuesta es de una aplicación móvil; sin embargo, se propone desarrollar una versión mejorada, con una opción de envío del mensaje cifrado con un URL único para que el destinatario tenga accesso al contenido del mensaje; asimismo, se propone emplear el Responsive Design, permitiendo su uso en demás dispositivos.
 
-![caeser-cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
-
 ## 3. Producto final
 Aplicación móvil
 
