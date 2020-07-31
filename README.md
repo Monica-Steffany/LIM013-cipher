@@ -27,7 +27,7 @@ La propuesta es de una aplicación móvil; sin embargo, se propone desarrollar u
 ## 3. Producto final
 Aplicación móvil
 
-![] (src/images/LogIn.PNG)
+![] (https://github.com/Monica-Steffany/LIM013-cipher/blob/master/src/images/Prototipo_1.jpeg)
 ![] (images/Menu.PNG)
 ![] (images/Encode.PNG)
 ![] (images/Decode.PNG)
