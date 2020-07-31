@@ -47,8 +47,8 @@ Actualmente, la seguridad y privacidad de las personas que usan redes sociales s
 ### Primer prototipo
 Prototipo a lápiz.
 
-![](src/images/Prototipo_1.PNG)
-![](src/images/Prototipo_2.PNG)
+![](src/images/Prototipo_1.jpeg)
+![](src/images/Prototipo_2.jpeg)
 
 ### Feedback recibido
 Se realizó la iteración con diversos usuarios, desde el prototipo inicial hasta el producto desarrollado. Primero, se realizaron observaciones con respecto a la cantidad de pantallas que se propuso en el prototipo inicial, por lo cual se procedió a reducir la cantidad de estas. Posteriormente, se observó que los botones para cifrar y descifrar deberían tener una descripción un tanto más detallada y entendible para el usuario. Finalmente, se realizaron sugerencias sobre la paleta de colores a emplear en el prototipo final.
